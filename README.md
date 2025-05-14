@@ -13,7 +13,7 @@ I'm Ritika from Kalyan, and I do content on Design and Development. I really enj
 
 
  <a href="https://github.com/Chavanritika/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavanritika&layout=compact&theme=buefy&hide_border=true" /></a> 
-| ------------- | ------------- |
+
 
 
 
