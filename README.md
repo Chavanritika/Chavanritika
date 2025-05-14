@@ -12,6 +12,10 @@ I'm Ritika from Kalyan, and I do content on Design and Development. I really enj
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 
+<a href="https://github.com/Chavanritika/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ritika's github stats" /></a> | <a href="https://github.com/Chavanritika/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavanritika&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 
 
 
